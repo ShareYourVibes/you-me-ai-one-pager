@@ -1,2 +1,5 @@
 # Mac-systeembestanden
 .DS_Store
+
+# Lokale secrets
+.env.local
